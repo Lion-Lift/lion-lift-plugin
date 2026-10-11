@@ -1,0 +1,18 @@
+{
+  "name": "lion-lift",
+  "displayName": "Lion Lift",
+  "version": "0.1.0",
+  "description": "Review training history, propose and schedule runs, swims, rides, and lifts, compare plans with completed workouts, and create training analyses and reports.",
+  "author": {
+    "name": "Seth Roth"
+  },
+  "homepage": "https://lionlift.app/",
+  "repository": "https://github.com/Lion-Lift/lion-lift-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["fitness", "training", "running", "swimming", "cycling", "strength", "workout"],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://lionlift.app/",
+  "supportUrl": "https://lionlift.app/support/",
+  "privacyPolicyUrl": "https://lionlift.app/privacy/",
+  "termsOfServiceUrl": "https://lionlift.app/terms/"
+}
