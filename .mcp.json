@@ -2,7 +2,7 @@
   "mcpServers": {
     "lion-lift": {
       "type": "http",
-      "url": "https://lionlift-mcp-874193308942.us-central1.run.app/mcp"
+      "url": "https://lionlift-mcp-dxjicnrhha-uc.a.run.app/mcp"
     }
   }
 }
